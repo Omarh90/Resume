@@ -12,7 +12,7 @@ Concord, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 
 ## Highlighted Projects:
 
-**Python-based Numerical Integration Application:**                          	McCampbell Analytical, August 2016
+**Python-based Numerical Integration Application:**                          	McCampbell Analytical, August 2018
 * Interactively integrates area under curve based on screen capture image
 * Includes GUI (tkinter/OOP)
 
