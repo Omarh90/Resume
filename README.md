@@ -1,5 +1,5 @@
 # Omar Ali
-Concord, CA * Omarh90 (at) gmail.com * github.com/Omarh90
+San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 
 ## Education:
 
@@ -22,7 +22,7 @@ Concord, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 
 ## Experience:
 **McCampbell Analytical:**      	
-(August 2017 – Present)
+(August 2017 – October 2018)
 
 Research & Development Analytical Chemist,	Pittsburg, California
 * Corrected faulty software algorithms by writing image parsing numerical integration program in Python
