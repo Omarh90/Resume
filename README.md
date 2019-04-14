@@ -26,9 +26,9 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 (November 2018 – Present)
 
 Knowledge Engineer, Berkeley, California
-* Troubleshoot legacy code for medical ETL semantic web data harmonization using SQL and Python
-* Heading semantic analysis project of unstructured medical record text parsing using R, NoSQL
-* Assisting in hiring process, administering technical interviews and guiding team growth
+* Writing R text analytics script to remediate medical record scans and perform semantic parsing
+* Maintain legacy code for medical database ETL and harmonization using SQL and Python
+* Assisting in team building, including technical interviews and project management
 
 **McCampbell Analytical:**      	
 (August 2017 – October 2018)
@@ -44,8 +44,8 @@ Research & Development Analytical Chemist,	Pittsburg, California
 
 Quantitative Bio-Element Imaging Center, Research Technologist II,	Evanston, Illinois
 * Prepared data validation packages, including statistical analyses and graphical summary of results
+* Used R to select appropriate calibration model based on regression diagnostics, including graphics
 * Trained graduate students in data analysis, illustrating common discrepancies indicative of error
-* Used R to select appropriate calibration model based on regression diagnostics
 
 **University of Illinois, Urbana-Champaign:** 
 *Various Titles Held*
