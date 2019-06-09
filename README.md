@@ -4,6 +4,7 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 ## Highlighted Projects:
 
 **EHR Clinical Database Integration and Remdiation:** SQL, NoSQL, Python, XML, AWS
+
 (Melissa Informatics, December 2018)
 
 * Processed semantic extraction of two EHR databases using RDF web normalization                       
@@ -11,18 +12,21 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 * Remediated patient ID corruption, generating visualizations to illustrate cause and extent
 
 **Histopathology Scan Digitization:** R, SQL
+
 (Melissa Informatics, March 2019)
 
 * Utilized predictive modeling to differentiate histopathology content and perform remediation	                      
 * Generated visualizations of data set to illustrate statistical results
 
 **Image Processing Numerical Integration Application:** Python
+
 (McCampbell Analytical, August 2018)
 
 * Uses image filtering and feature recognition to calculate concentration using multinomial calibration
 * GUI interactively integrates area under curve based on screen capture image (tkinter/OOP)
 
 **Optical Emission Data Cleanup and Calculation:** VBA
+
 (Center for Chemistry and Technology, August 2016)
 
 * Finds paired quality control samples in ICP-OES structured data set 	                                         
@@ -31,6 +35,7 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 ## Experience:
 
 **Melissa Informatics**
+
 (November 2018 – June 2019)
 
 Knowledge Engineer, Berkeley, California
@@ -39,6 +44,7 @@ Knowledge Engineer, Berkeley, California
 * Assisting in team building, including technical interviews and project management
 
 **McCampbell Analytical:**
+
 (August 2017 – October 2018)
 
 Research & Development Analytical Chemist,	Pittsburg, California
@@ -47,6 +53,7 @@ Research & Development Analytical Chemist,	Pittsburg, California
 * Routinely query data in MS Access-based LIMS database and process data in Excel
 
 **Northwestern University:**
+
 (September 2016 – August 2017)
 
 Quantitative Bio-Element Imaging Center, Research Technologist II,	Evanston, Illinois
@@ -56,15 +63,18 @@ Quantitative Bio-Element Imaging Center, Research Technologist II,	Evanston, Ill
 
 **University of Illinois, Urbana-Champaign:** 
 *Various Titles Held*
+
 (August 2008 – August 2016)
 
-Center for Chemistry and Technology, Assistant Analytical Chemist	
+Center for Chemistry and Technology, Assistant Analytical Chemist
+
 (March 2014 – August 2016)
 
 * Wrote dynamic, user-friendly VBA code to parse, seek, and compute QC criteria in large data array 
 * Increased sample throughput by factor of four for time-sensitive project
 
 Illinois State Geological Survey, Geochronology Lab Technician
+
 (February 2010 – October 2012)
 
 * Headed data processing, including statistical calculations and graphics via VBA and MS Excel
