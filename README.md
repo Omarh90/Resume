@@ -97,7 +97,6 @@ Illinois State Geological Survey, Geochronology Lab Technician
 * Bachelor of Science in Mathematics
 * Bachelor of Science in Chemistry
 * December 2012
-* GPA: 3.24
 
 ## Technical Skills:
 
