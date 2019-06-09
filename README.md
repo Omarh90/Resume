@@ -3,6 +3,7 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 
 ## Highlighted Projects:
 
+
 **EHR Clinical Database Integration and Remdiation:** SQL, NoSQL, Python, XML, AWS
 
 (Melissa Informatics, December 2018)
@@ -11,6 +12,7 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 * Overhauled EHR ETL legacy pipelines for ten-fold scaleup, using AWS for version control 
 * Remediated patient ID corruption, generating visualizations to illustrate cause and extent
 
+
 **Histopathology Scan Digitization:** R, SQL
 
 (Melissa Informatics, March 2019)
@@ -18,12 +20,14 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 * Utilized predictive modeling to differentiate histopathology content and perform remediation	                      
 * Generated visualizations of data set to illustrate statistical results
 
+
 **Image Processing Numerical Integration Application:** Python
 
 (McCampbell Analytical, August 2018)
 
 * Uses image filtering and feature recognition to calculate concentration using multinomial calibration
 * GUI interactively integrates area under curve based on screen capture image (tkinter/OOP)
+
 
 **Optical Emission Data Cleanup and Calculation:** VBA
 
@@ -34,6 +38,7 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 
 ## Experience:
 
+
 **Melissa Informatics**
 
 (November 2018 – June 2019)
@@ -42,6 +47,7 @@ Knowledge Engineer, Berkeley, California
 * Writing R text analytics script to remediate medical record scans and perform semantic parsing
 * Maintain legacy code for medical database ETL and harmonization using SQL and Python
 * Assisting in team building, including technical interviews and project management
+
 
 **McCampbell Analytical:**
 
@@ -52,6 +58,7 @@ Research & Development Analytical Chemist,	Pittsburg, California
 * Serve as de facto technical consultant, receiving high praises for clear communications with clients
 * Routinely query data in MS Access-based LIMS database and process data in Excel
 
+
 **Northwestern University:**
 
 (September 2016 – August 2017)
@@ -60,6 +67,7 @@ Quantitative Bio-Element Imaging Center, Research Technologist II,	Evanston, Ill
 * Prepared data validation packages, including statistical analyses and graphical summary of results
 * Used R to select appropriate calibration model based on regression diagnostics, including graphics
 * Trained graduate students in data analysis, illustrating common discrepancies indicative of error
+
 
 **University of Illinois, Urbana-Champaign:** 
 *Various Titles Held*
@@ -72,6 +80,7 @@ Center for Chemistry and Technology, Assistant Analytical Chemist
 
 * Wrote dynamic, user-friendly VBA code to parse, seek, and compute QC criteria in large data array 
 * Increased sample throughput by factor of four for time-sensitive project
+
 
 Illinois State Geological Survey, Geochronology Lab Technician
 
