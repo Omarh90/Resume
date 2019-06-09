@@ -3,28 +3,28 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 
 ## Highlighted Projects:
 
-**EHR Clinical Database Integration and Remdiation: SQL, NoSQL, Python, XML, AWS**
-
+**EHR Clinical Database Integration and Remdiation:** SQL, NoSQL, Python, XML, AWS
 (Melissa Informatics, December 2018)
+
 * Processed semantic extraction of two EHR databases using RDF web normalization                       
 * Overhauled EHR ETL legacy pipelines for ten-fold scaleup, using AWS for version control 
 * Remediated patient ID corruption, generating visualizations to illustrate cause and extent
 
-**Histopathology Scan Digitization: R, SQL**
+**Histopathology Scan Digitization:** R, SQL
+(Melissa Informatics, March 2019)
 
-(Melissa Informatics, March 2019) 
 * Utilized predictive modeling to differentiate histopathology content and perform remediation	                      
 * Generated visualizations of data set to illustrate statistical results
 
-**Image Processing Numerical Integration Application: Python**
-
+**Image Processing Numerical Integration Application:** Python
 (McCampbell Analytical, August 2018)
-* Uses image filtering and feature classification to calculate measured sample concentration, including calibration and OCR
+
+* Uses image filtering and feature recognition to calculate concentration using multinomial calibration
 * GUI interactively integrates area under curve based on screen capture image (tkinter/OOP)
 
-**Optical Emission Data Cleanup and Calculation: VBA**
-
+**Optical Emission Data Cleanup and Calculation:** VBA
 (Center for Chemistry and Technology, August 2016)
+
 * Finds paired quality control samples in ICP-OES structured data set 	                                         
 * Immediately adopted by entire lab staff due to ease of use
 
