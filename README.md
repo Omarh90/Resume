@@ -100,8 +100,13 @@ Illinois State Geological Survey, Geochronology Lab Technician
 * GPA: 3.24
 
 ## Technical Skills:
+
 **Languages:** MATLAB, Python, SQL, NoSQL, VBA, R, C
+
 **Math & Statistics:** Logistic Regression, ANOVA/ANCOVA, Model Selection, Linear Algebra, Time Series
+
 **Software Packages:** MS Office & Excel, Virtuoso
+
 **Operating Systems:** Windows, Linux
+
 **Science:** HR-ICP-MS, LA-ICP-MS, IC, IC-FI/ICP-MS, GC-MS, GC-FID, PCR/PAGE, ICP-OES
