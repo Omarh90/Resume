@@ -31,24 +31,24 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 ## Experience:
 
 **Melissa Informatics**
-
 (November 2018 – June 2019)
+
 Knowledge Engineer, Berkeley, California
 * Writing R text analytics script to remediate medical record scans and perform semantic parsing
 * Maintain legacy code for medical database ETL and harmonization using SQL and Python
 * Assisting in team building, including technical interviews and project management
 
 **McCampbell Analytical:**
-
 (August 2017 – October 2018)
+
 Research & Development Analytical Chemist,	Pittsburg, California
 * Corrected faulty software algorithms by writing image parsing numerical integration program in Python
 * Serve as de facto technical consultant, receiving high praises for clear communications with clients
 * Routinely query data in MS Access-based LIMS database and process data in Excel
 
 **Northwestern University:**
-
 (September 2016 – August 2017)
+
 Quantitative Bio-Element Imaging Center, Research Technologist II,	Evanston, Illinois
 * Prepared data validation packages, including statistical analyses and graphical summary of results
 * Used R to select appropriate calibration model based on regression diagnostics, including graphics
@@ -60,11 +60,13 @@ Quantitative Bio-Element Imaging Center, Research Technologist II,	Evanston, Ill
 
 Center for Chemistry and Technology, Assistant Analytical Chemist	
 (March 2014 – August 2016)
+
 * Wrote dynamic, user-friendly VBA code to parse, seek, and compute QC criteria in large data array 
 * Increased sample throughput by factor of four for time-sensitive project
 
 Illinois State Geological Survey, Geochronology Lab Technician
 (February 2010 – October 2012)
+
 * Headed data processing, including statistical calculations and graphics via VBA and MS Excel
 * Recovered corrupt files from destructive analysis, merging disparate data into cohesive results
 
