@@ -13,11 +13,12 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 * Remediated patient ID corruption, generating visualizations to illustrate cause and extent
 
 
-**Histopathology Scan Digitization:** R, SQL
+**Histopathology Scan Digitization:** R, SQL, ML
 
 (Melissa Informatics, March 2019)
 
-* Utilized predictive modeling to differentiate histopathology content and perform remediation	                      
+* Compared multidimensional feature clusters and string distance to differentiate medical forms                       
+* Used predictive models and matrix algebra to parse content and remediate unstructured medical text
 * Generated visualizations of data set to illustrate statistical results
 
 
