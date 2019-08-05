@@ -40,6 +40,15 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 ## Experience:
 
 
+**Code for San Francisco**
+
+(July 2019 - Present)
+
+ShelterTech Dev & Analytics (Volunteer)
+* Critiqued CA Department of Motor Vehicles website through Strike Team directly to DMV executives
+* Active member of ShelterTech dev team, supporting website hosting homelessness resources in SF 
+
+
 **Melissa Informatics**
 
 (November 2018 – June 2019)
