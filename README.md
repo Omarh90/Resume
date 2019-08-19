@@ -30,12 +30,15 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 * GUI interactively integrates area under curve based on screen capture image (tkinter/OOP)
 
 
-**Optical Emission Data Cleanup and Calculation:** VBA
+**Clinical FDA Early Phase I GBM NP-Therapeutic Quality Assurance:** R	
 
-(Center for Chemistry and Technology, August 2016)
+(Northwestern University, August 2017)
 
-* Finds paired quality control samples in ICP-OES structured data set 	                                         
-* Immediately adopted by entire lab staff due to ease of use
+* Wrote FDA compliant SOPs compiling data validation package, including graphics
+* Created regression and diagnostic plots, and customized instrument sample injection algorithms
+
+
+
 
 ## Experience:
 
@@ -74,7 +77,8 @@ Research & Development Analytical Chemist,	Pittsburg, California
 (September 2016 – August 2017)
 
 Quantitative Bio-Element Imaging Center, Research Technologist II,	Evanston, Illinois
-* Prepared data validation packages, including statistical analyses and graphical summary of results
+* Prepared clinical early phase I FDA data validation package, using QC statistics and graphical summaries
+* Troubleshoot multi-dimensional data processing from laser ablation ICP-MS and maintained WordPress site
 * Used R to select appropriate calibration model based on regression diagnostics, including graphics
 * Trained graduate students in data analysis, illustrating common discrepancies indicative of error
 
@@ -107,14 +111,19 @@ Illinois State Geological Survey, Geochronology Lab Technician
 * Bachelor of Science in Mathematics
 * Bachelor of Science in Chemistry
 * December 2012
+* Dual degree
 
 ## Technical Skills:
 
-**Languages:** MATLAB, Python, SQL, NoSQL, VBA, R, C
+**Languages:** MATLAB, Python, SQL, NoSQL, VB, R, C/C++
 
-**Math & Statistics:** Logistic Regression, ANOVA/ANCOVA, Model Selection, Linear Algebra, Time Series
+**Web:** HTML, XML, AWS, WordPress
 
-**Software Packages:** MS Office & Excel, Virtuoso
+**Database:** PostgreSQL, MySQL, Virtuoso, NoSQL
+
+**Developer Admin:** Jira, Git, Confluence
+
+**Math & Statistics:** Logistic Regression, Machine Learning, ANOVA/ANCOVA, Model Selection, Linear Algebra, Time Series
 
 **Operating Systems:** Windows, Linux
 
