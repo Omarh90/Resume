@@ -115,7 +115,7 @@ Illinois State Geological Survey, Geochronology Lab Technician
 
 ## Technical Skills:
 
-**Languages:** MATLAB, Python, SQL, NoSQL, VB, R, C/C++
+**Languages:** MATLAB, Python (keras, pandas, sklearn), SQL, NoSQL, VB, R, C/C++
 
 **Web:** HTML, XML, AWS, WordPress
 
