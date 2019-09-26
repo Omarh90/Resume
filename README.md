@@ -4,7 +4,7 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 ## Highlighted Projects:
 
 
-**EHR Clinical Database Integration and Remdiation:** SQL, NoSQL, Python, XML, AWS
+**EHR Clinical Database Integration and Remediation:** SQL, NoSQL, Python, XML, AWS
 
 (Melissa Informatics, December 2018)
 
