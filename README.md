@@ -43,7 +43,7 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 ## Experience:
 
 
-**FreightVerify**
+**FreightVerify:**
 
 (November 2019 - Present)
 
@@ -52,7 +52,7 @@ AI Engineer, San Francisco, California
 * Quantified anomalous route behavior by introducing physics calculations into SQL data pipeline
 
 
-**Code for San Francisco**
+**Code for San Francisco:**
 
 (July 2019 - October 2019)
 
@@ -61,7 +61,7 @@ ShelterTech Dev & Analytics (Volunteer)
 * Active member of ShelterTech dev team, supporting website hosting homelessness resources in SF 
 
 
-**Melissa Informatics**
+**Melissa Informatics:**
 
 (November 2018 – June 2019)
 
