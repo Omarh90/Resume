@@ -43,9 +43,18 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 ## Experience:
 
 
+**FreightVerify**
+
+(November 2019 - Present)
+
+AI Engineer, San Francisco, California
+* Wrote map visualization tool in Python to automate inspection and characterization of shipping routes
+* Quantified anomalous route behavior by introducing physics calculations into SQL data pipeline
+
+
 **Code for San Francisco**
 
-(July 2019 - Present)
+(July 2019 - October 2019)
 
 ShelterTech Dev & Analytics (Volunteer)
 * Critiqued CA Department of Motor Vehicles website through Strike Team directly to DMV executives
@@ -115,9 +124,9 @@ Illinois State Geological Survey, Geochronology Lab Technician
 
 ## Technical Skills:
 
-**Languages:** MATLAB, Python (keras, pandas, sklearn), SQL, NoSQL, VB, R, C/C++
+**Languages:** Python (keras, pandas, sklearn, pyspark), R, SQL (Postgres, MySQL), NoSQL, MATLAB, VB, R, C/C++
 
-**Web:** HTML, XML, AWS, WordPress
+**Web:** AWS, XML, WordPress
 
 **Database:** PostgreSQL, MySQL, Virtuoso, NoSQL
 
