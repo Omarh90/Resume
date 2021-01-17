@@ -45,7 +45,7 @@ San Francisco, CA * Omarh90 (at) gmail.com * github.com/Omarh90
 
 **FreightVerify:**
 
-(November 2019 - Present)
+(November 2019 - May 2020)
 
 AI Engineer, San Francisco, California
 * Wrote map visualization tool in Python to automate inspection and characterization of shipping routes
